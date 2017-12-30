@@ -16,4 +16,4 @@ pip install --target=lib .
 Then create an empty workflow in Alfred, open it's directory and replace the contents.
 
 # Install
-Install from Releases page
+Install from [Releases](https://github.com/LubergAlexander/asana-alfred/releases) page
